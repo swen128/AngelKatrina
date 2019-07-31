@@ -1,0 +1,36 @@
+body {
+  background-color: #000000;
+  color: white;
+  background-image: url("../img/angel_katrina.png");
+}
+
+.content {
+  width: 720px;
+  margin: auto;
+  text-align: center;
+}
+
+li {
+  text-align: left;
+}
+
+a {
+  color: red;
+}
+
+h2 {
+  background-color: gray;
+}
+
+#profile {
+  width: 400px;
+  margin: auto;
+}
+
+#profile dt {
+  background-color: gray;
+}
+
+#profile div.card {
+  margin: 1em 0;
+}
