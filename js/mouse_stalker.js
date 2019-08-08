@@ -1,3 +1,11 @@
+/******
+ * This code was copied from:
+ * http://oekakirenn.webcrow.jp/mouse/mouse_moji1.html
+ *
+ * Copyright ©2014- 2019 ◆動くJavaScript◆ All Rights Reserved.
+ *****/
+
+
 (function () {  //即時関数で囲んでグローバル変数を消すため、この行はこのままで
 
 //in addition to "random" can be set to any valid colour eg "#f0f" or "red"
